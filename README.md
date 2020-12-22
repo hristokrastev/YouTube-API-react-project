@@ -14,7 +14,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 key for test:
 
-'AIzaSyBopyKXXJRf19K5KfYcD1QRAf1O4K8QmPY'
+'#AIzaSyBopyKXXJRf19K5KfYcD1QRAf1O4K8QmPY'
 
 #### Not Familiar with Git?
 Learn some :)
