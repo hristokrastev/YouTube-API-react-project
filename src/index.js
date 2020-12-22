@@ -7,8 +7,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-//put your Youtube API key below
-//from https://console.developers.google.com/apis/
+
 const API_KEY = '';
 
 
@@ -24,8 +23,6 @@ class App extends Component {
             videos: [],
             selectedVideo: null
         };
-
-
         this.videoSearch('crypto');
     }
 
