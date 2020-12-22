@@ -13,7 +13,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 #### Not Familiar with Git?
-```
-> npm install
-> npm start
-```
+Learn some :)
